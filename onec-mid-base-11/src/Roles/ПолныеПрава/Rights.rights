@@ -510,6 +510,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.Д_КонтактныеЛица</name>
+		<right>
+			<name>InteractiveDelete</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveDeletePredefinedData</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ВыполнятьЗамерыПроизводительности</name>
 		<right>
 			<name>Update</name>
@@ -1431,6 +1442,17 @@
 		<name>DataProcessor.ОценкаПроизводительности.Command.ИмпортЗамеровПроизводительности</name>
 		<right>
 			<name>View</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Д_Должности</name>
+		<right>
+			<name>InteractiveDelete</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveDeletePredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
